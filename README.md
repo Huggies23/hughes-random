@@ -12,7 +12,7 @@ The package can be installed by downloading a local copy  of 'hughes-random' the
 
 However, the easiest way to install a package is using github.
 
-The package 'hughes' containing random.RanDist() can be installed from GitHub at command line on a machine with python, the required python packages (numpy, matplotlib.pylab) and git installed using pip and the command:
+The package 'hughes' containing random.RanDist() can be installed from GitHub at command line on a machine with python, the required python packages (numpy, matplotlib) and git installed using pip and the command:
 
 > \ ..\user> pip install git+https://github.com/Huggies23/hughes-random.git
 
